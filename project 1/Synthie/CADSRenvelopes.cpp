@@ -35,11 +35,6 @@ bool CADSRenvelopes::Generate()
 	else if ((m_time > m_attack) && (m_time < m_duration - m_release - m_sustain))
 	{
 		m_release = (m_duration - m_time - m_sustain) / (m_release + m_decay);
-		
-	}
-	else if ((m_time > m_attack + m_decay) && (m_time < m_duration - m_release))
-	{
-		m_release = m_decay / (m_release + m_decay);
 
 	}
 	else if (m_time > m_duration - m_release)
