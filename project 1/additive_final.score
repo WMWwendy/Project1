@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<score bpm="120" beatspermeasure="2">
+     <instrument instrument="AdditiveInstrument">
+          <note measure="1" beat="2" duration="0.33" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="1" beat="2.33" duration="0.33" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="1" beat="2.6" duration="0.33" note="A4" harmonic1="1" harmonic2="1 .3 .5"/>
+     <effect effect="noisegate">
+   </effect>
+          <note measure="2" beat="2" duration="0.33" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="2" beat="2.33" duration="0.33" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="2" beat="2.6" duration="0.33" note="A4" harmonic1="1" harmonic2="1 .3 .5"/>
+ 
+     <effect effect="flanging">
+   </effect>
+
+          <note measure="3" beat="2" duration="0.33" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="3" beat="2.33" duration="0.33" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="3" beat="2.6" duration="0.33" note="A4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="3" beat="2" duration="0.33" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="3" beat="2.33" duration="0.33" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="3" beat="2.6" duration="0.33" note="A4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="4" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="4" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="4" beat="1" duration="0.5" note="Eb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="4" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="4" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="4" beat="1" duration="0.5" note="Eb4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="5" beat="2" duration="0.33" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="5" beat="2.33" duration="0.33" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="5" beat="2.6" duration="0.33" note="A4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="5" beat="2" duration="0.33" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="5" beat="2.33" duration="0.33" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="5" beat="2.6" duration="0.33" note="A4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="6" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="6" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="6" beat="1" duration="0.5" note="Eb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="6" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="6" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="6" beat="1" duration="0.5" note="Eb4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="7" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="7" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="7" beat="1" duration="0.5" note="Eb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="7" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="7" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+
+          <note measure="8" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="8" beat="1" duration="0.5" note="D4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="8" beat="1" duration="0.5" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="8" beat="2" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="8" beat="2" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="8" beat="2" duration="0.5" note="Eb4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="9" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="9" beat="1" duration="0.5" note="D4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="9" beat="1" duration="0.5" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+     <effect effect="chorus">
+   </effect>
+
+          <note measure="10" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="10" beat="1.5" duration="0.5" note="F#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="10" beat="2" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="10" beat="2.5" duration="0.5" note="G#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="10" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="10" beat="1.5" duration="0.5" note="F#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="10" beat="2" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+         
+
+          <note measure="11" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="11" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="11" beat="1" duration="0.5" note="Eb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="11" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="11" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="11" beat="1" duration="0.5" note="Eb4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="12" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="12" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="12" beat="1" duration="0.5" note="Eb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="12" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="12" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="12" beat="1" duration="0.5" note="Eb4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="13" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="13" beat="1" duration="0.5" note="D4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="13" beat="1" duration="0.5" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="13" beat="2" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="13" beat="2" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="13" beat="2" duration="0.5" note="Eb4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="14" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="14" beat="1" duration="0.5" note="D4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="14" beat="1" duration="0.5" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+        
+          <note measure="15" beat="1" duration="1" note="A4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="15" beat="2" duration="1" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="15" beat="1" duration="1" note="A4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="15" beat="2" duration="1" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="15" beat="1" duration="1" note="A4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="16" beat="1" duration="3" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="16" beat="1" duration="3" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="16" beat="1" duration="3" note="D4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="17" beat="2" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="17" beat="2.5" duration="0.5" note="G#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          
+          <note measure="18" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="18" beat="1.5" duration="0.5" note="F#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="18" beat="2" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="18" beat="2.5" duration="0.5" note="G#4" harmonic1="1" harmonic2="1 .3 .5"/>
+     <effect effect="chorus">
+   </effect>
+          <note measure="19" beat="2" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="19" beat="2.5" duration="0.5" note="G#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="19" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="19" beat="1.5" duration="0.5" note="F#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="19" beat="2" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="19" beat="2.5" duration="0.5" note="G#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="20" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="20" beat="1.5" duration="0.5" note="F#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="20" beat="2" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="20" beat="2.5" duration="0.5" note="G#4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="21" beat="2" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="21" beat="2.5" duration="0.5" note="G#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="21" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="21" beat="1.5" duration="0.5" note="F#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="21" beat="2" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="21" beat="2.5" duration="0.5" note="G#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="22" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="22" beat="1.5" duration="0.5" note="F#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="22" beat="2" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="22" beat="2.5" duration="0.5" note="G#4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="23" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="23" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="23" beat="1" duration="0.5" note="Eb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="23" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="23" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="23" beat="1" duration="0.5" note="Eb4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="24" beat="2" duration="0.33" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="24" beat="2.33" duration="0.33" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="25" beat="2" duration="0.33" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="25" beat="2.33" duration="0.33" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="26" beat="1" duration="3" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="26" beat="1" duration="3" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+     <effect effect="flanging">
+   </effect>
+          <note measure="27" beat="1" duration="0.5" note="Eb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="27" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="27" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="27" beat="1" duration="0.5" note="Eb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="27" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="27" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="27" beat="1" duration="0.5" note="Eb4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+ 	  <note measure="28" beat="2.5" duration="0.5" note="G#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="28" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="28" beat="1.5" duration="0.5" note="F#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="28" beat="2" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="28" beat="2.5" duration="0.5" note="G#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="29" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="29" beat="1.5" duration="0.5" note="F#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="29" beat="2" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="29" beat="2.5" duration="0.5" note="G#4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+         <note measure="30" beat="2.5" duration="0.5" note="G#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="30" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="30" beat="1.5" duration="0.5" note="F#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="30" beat="2" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="30" beat="2.5" duration="0.5" note="G#4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="31" beat="2" duration="0.33" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="31" beat="2.33" duration="0.33" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="31" beat="2.6" duration="0.33" note="A4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="31" beat="2" duration="0.33" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="31" beat="2.33" duration="0.33" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="31" beat="2.6" duration="0.33" note="A4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="32" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="32" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="32" beat="1" duration="0.5" note="Eb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="32" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="32" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="32" beat="1" duration="0.5" note="Eb4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="33" beat="2" duration="0.33" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="33" beat="2.33" duration="0.33" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="33" beat="2.6" duration="0.33" note="A4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="33" beat="2" duration="0.33" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="33" beat="2.33" duration="0.33" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="33" beat="2.6" duration="0.33" note="A4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="34" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="34" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="34" beat="1" duration="0.5" note="Eb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="34" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="34" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="34" beat="1" duration="0.5" note="Eb4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="36" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="36" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="36" beat="1" duration="0.5" note="Eb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="36" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="36" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+         <note measure="37" beat="2" duration="0.33" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="37" beat="2.33" duration="0.33" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="37" beat="2.6" duration="0.33" note="A4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="38" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="38" beat="1" duration="0.5" note="D4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="38" beat="1" duration="0.5" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="38" beat="2" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="38" beat="2" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="38" beat="2" duration="0.5" note="Eb4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="38" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="38" beat="1" duration="0.5" note="D4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="38" beat="1" duration="0.5" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="39" beat="2" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="39" beat="2" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="39" beat="2" duration="0.5" note="Eb4" harmonic1="1" harmonic2="1 .3 .5"/>
+     <effect effect="flanging">
+   </effect>
+
+          <note measure="40" beat="2" duration="0.33" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="40" beat="2.33" duration="0.33" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="40" beat="2.6" duration="0.33" note="A4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="41" beat="2.5" duration="0.5" note="G#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="41" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="41" beat="1.5" duration="0.5" note="F#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="41" beat="2" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="41" beat="2.5" duration="0.5" note="G#4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+
+          <note measure="42" beat="1.5" duration="0.5" note="F#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="42" beat="2" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="42" beat="2.5" duration="0.5" note="G#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="43" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="43" beat="1.5" duration="0.5" note="F#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="43" beat="2" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="43" beat="2.5" duration="0.5" note="G#4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="44" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="44" beat="1" duration="0.5" note="Eb4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="45" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="45" beat="1" duration="0.5" note="D4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="45" beat="1" duration="0.5" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="45" beat="2" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="46" beat="2" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="46" beat="2.5" duration="0.5" note="G#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="46" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="47" beat="1.5" duration="0.5" note="F#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="47" beat="2" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="47" beat="2.5" duration="0.5" note="G#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="48" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="48" beat="1.5" duration="0.5" note="F#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="48" beat="2" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="48" beat="2.5" duration="0.5" note="G#4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="49" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="49" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="49" beat="1" duration="0.5" note="Eb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="49" beat="1" duration="0.5" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="49" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="49" beat="1" duration="0.5" note="Eb4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+ 
+	  <note measure="50" beat="2.5" duration="0.5" note="G#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="50" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="50" beat="1.5" duration="0.5" note="F#4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="51" beat="2" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="52" beat="2.5" duration="0.5" note="G#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="52" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="52" beat="1.5" duration="0.5" note="F#4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="53" beat="2" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="53" beat="2.5" duration="0.5" note="G#4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="54" beat="1" duration ="1" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="55" beat="2" duration="0.33" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="55" beat="2.33" duration="0.33" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="56" beat="2.6" duration="0.33" note="A4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+         <note measure ="57" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="57" beat="1.5" duration="0.5" note="F#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="57" beat="2" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="57" beat="2.5" duration="0.5" note="G#4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="58" beat="1" duration="0.5" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="58" beat="1.5" duration="0.5" note="F#4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="59" beat="2" duration="0.33" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="59" beat="2.33" duration="0.33" note="G4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="59" beat="2.6" duration="0.33" note="A4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+	  <note measure="60" beat="1" duration="3" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="60" beat="1" duration="3" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="60" beat="1" duration="3" note="D4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+          <note measure="61" beat="1" duration="3" note="Bb4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="61" beat="1" duration="3" note="F4" harmonic1="1" harmonic2="1 .3 .5"/>
+          <note measure="61" beat="1" duration="3" note="D4" harmonic1="1" harmonic2="1 .3 .5"/>
+
+
+  </instrument>
+</score>
